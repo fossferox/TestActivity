@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">P0211_TwoActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="goBtnTwo_text">Go to Activity Two</string>
+    <string name="goBtnFree_text">Go to Activity Free</string>
+    <string name="goBackBtn_text">Go to Activity Main</string>
+    <string name="title_activity_activity_two">ActivityTwo</string>
+    <string name="text_activityTwo">This is Activity Two</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
